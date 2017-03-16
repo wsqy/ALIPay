@@ -35,6 +35,6 @@ class ALITradePay(ALipay):
     self.sign=''
     self.timestamp = '2014-07-24 03:07:50'
     self.notify_url = ''
-    self.biz_content = ""
+    self.biz_content = ''
 
 ```
